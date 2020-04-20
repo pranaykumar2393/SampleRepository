@@ -13,4 +13,8 @@ public class LoginPage {
 	public void LoginPage3() {
 		System.out.println("I am in LoginPage3");
 	}
+	
+	public void pranay2() {
+		System.out.println("created in pranay2 branch");
+	}
 }
